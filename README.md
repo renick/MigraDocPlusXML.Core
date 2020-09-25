@@ -1,6 +1,6 @@
 This is a merged port of 
 
-- MigraDoc 
+- [MigraDoc] (https://github.com/empira/MigraDoc)
 - PdfSharp
 - MigraDocXML
 - EvalScript 
