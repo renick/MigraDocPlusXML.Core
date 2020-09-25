@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) 2020 renick
+MigraDoc    Copyright (c) 2005-2018 empira Software GmbH, Troisdorf (Germany), 
+PdfSharp    Copyright (c) 2005-2018 empira Software GmbH, Troisdorf (Germany),
+MigraDocXML Copyright (c) 2018 James Coyle, 
+EvalScript  Copyright (c) 2018 James Coyle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
