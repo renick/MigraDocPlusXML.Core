@@ -1,2 +1,2 @@
 ﻿using System.Runtime.CompilerServices;
-[assembly: InternalsVisibleTo("MigraDocXMLTests")]
+[assembly: InternalsVisibleTo("MigraDocPlusXml.Tests")]
