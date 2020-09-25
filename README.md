@@ -9,5 +9,6 @@ to .NET Core 3.1.
 
 As such copyrights belong to their respective authors. 
 
-Only the Library files are included and merged to a single assembly.
+Only the necessary library files are included and the build results to a single assembly.
+
 
